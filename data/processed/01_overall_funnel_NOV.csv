@@ -1,0 +1,4 @@
+Funnel_Stage,Unique_Users,conversion_rate%,drop_off_rate%
+01_View,3022130,100.0,0.0
+02_Intent,481458,15.93,84.07
+03_Purchase,347118,72.1,27.900000000000006

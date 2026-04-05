@@ -1,0 +1,10 @@
+price_tier,Funnel_Stage,Unique_Users,conversion_rate%,drop_off_rate%
+Low,01_View,1602364,100.0,0.0
+Low,02_Intent,162272,10.13,89.87
+Low,03_Purchase,125258,77.19,22.810000000000002
+Medium,01_View,1797777,100.0,0.0
+Medium,02_Intent,158336,8.81,91.19
+Medium,03_Purchase,157626,99.55,0.45000000000000284
+High,01_View,1736716,100.0,0.0
+High,02_Intent,141186,8.13,91.87
+High,03_Purchase,125548,88.92,11.079999999999998

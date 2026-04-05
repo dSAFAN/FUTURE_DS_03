@@ -1,2 +1,10 @@
-data/raw/
-*.csv
+data/raw/*.csv
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+.vscode/
+__pycache__/
+*.py[cod]
+venv/
+.env
+.DS_Store
+Thumbs.db
